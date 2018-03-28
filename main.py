@@ -1,8 +1,8 @@
 print("hello world")
-//tesing
-//test
-//yesy
+#tesing
+#//test
+#//yesy
 
-//yktk
+#//yktk
 
-//rtergk;slmdv
+#//rtergk;slmdv
